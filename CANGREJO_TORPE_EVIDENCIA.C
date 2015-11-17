@@ -6,7 +6,7 @@ int salir;
 int retrocede;
 int avanza;
 int dias;
-int i;
+
 
 int main()
 {
@@ -20,7 +20,7 @@ int main()
 	
 	if(sol>luna)
 	{
-		i=0;
+		retrocede=0;
 	    dias=0;
 	    avanza=0;
 	while(metros>=avanza)
