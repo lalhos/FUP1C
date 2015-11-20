@@ -1,0 +1,29 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+54
+'algoritmo que nos de resultado de una compra mas iva'
+5
+1
+5
+costo
+6
+2
+10
+resultado 
+10
+costo*0.16
+10
+costofinal
+15
+costo+resultado
+4
+1
+36
+'valor de tu compra es',  costofinal
+1
